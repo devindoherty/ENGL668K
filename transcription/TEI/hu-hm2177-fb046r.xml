@@ -4,5 +4,29 @@
 <surface xmlns="http://www.tei-c.org/ns/1.0" xmlns:mith="http://mith.umd.edu/sc/ns1#"
     xml:id="hu-hm2177-fb046r" ulx="0" uly="0" lrx="5412" lry="7216">
     <graphic url="../../images/hu-hm2177-fb046r.jpg"/>
-    
+    <zone type="main">
+		<line>With what truth I may say</line>
+		<line>Roma Roma Roma</line>
+		<line>non e piu come era prima</line>
+		<line>My lost William,</line>
+		<line><del rend="strikethrough">Ruined</del> <del rend="strikethrough">creature</del> thou in whom</line>
+		<line>Some <del rend="strikethrough">sweet<del><add place="superlinear">bright</add> spirit lived, & did</line>
+		<line>That decaying robe consume</line>
+		<line>Which its <del rend="strikethrough">gentle lus</del> hid</line>
+		<line><del rend="strikethrough">In the</del> T<del rend="strikethrough">hy remains</del></line>
+		<line>Here its ashes find a tomb</line>
+		<line>But be</line>
+		<line><del rend="strikethrough">Under</del><add place="superlinear">But be</add>neath this pyramid</line>
+		<line><del rend="strikethrough">Lie thy bones - if thou canst die</del></line>
+		<line>Rest thy bones- there is a shrine</line>
+		<line>From thy</line>
+		<line>Where art thou <del rend="strikethrough">gone</del> my gentle <add place="superlinear">child</add><del rend="strikethrough">boy<del></line>
+		<line><del rend="strikethrough">Disolved intothethe living weeds</del></line>
+		<line><del rend="strikethrough">Whose</del> <del rend="strikethrough">Child I</del>Let me think thy spirit feeds</line>
+		<line>Within its <del rend="strikethrough">young</del><add place="superlinear">life <del rend="strikethrough">small</del></add><unclear>?</unclear> life intense</line>
+		<line>The <del rend="strikethrough">grass</del> <del rend="strikethrough">living</del> <add place="superlinear">love</add> of living <del rend="strikethrough">flowers</del> <add place="superlinear">leaves</add> <add place="sublinear">&amp weeds</add>
+		<line>Among these tombs &amp ruins wild</line>
+		<line><del rend="strikethrough">Could I believe that</del>
+	
+	</zone>
 </surface>

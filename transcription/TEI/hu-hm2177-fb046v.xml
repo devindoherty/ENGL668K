@@ -4,5 +4,20 @@
 <surface xmlns="http://www.tei-c.org/ns/1.0" xmlns:mith="http://mith.umd.edu/sc/ns1#"
     xml:id="hu-hm2177-fb046v" ulx="0" uly="0" lrx="5412" lry="7216">
     <graphic url="../../images/hu-hm2177-fb046v.jpg"/>
-    
+    <zone type="main">
+		<line><del rend="strikethrough">A melancholoy gladness</line>
+		<line>Let me think that thro low seeds</line>
+		<line>Of the <del rend="strikethrough">living</del> <del rend="strikethrough">breathing</del> <add place="sublinear">sweet flowers &amp scents may pass</add></line>
+		<line>A portion</line>
+	</zone>	
+	<zone>	
+		<!-- Following is flipped 90 degrees-->
+		<line>A resemblance</line>
+		<line>does not consist only in avoiding<line>
+		<line>which have gone before, it</line>
+		<line>language different from those</line>
+		<line>or combination of metre &amp</line>
+		<line><del rend="strikethrough">in words &amp names, or stories</del></line>
+		<line>Originality does not consist</line>
+	</zone>
 </surface>
