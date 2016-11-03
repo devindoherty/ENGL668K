@@ -4,15 +4,18 @@
 <surface xmlns="http://www.tei-c.org/ns/1.0" xmlns:mith="http://mith.umd.edu/sc/ns1#"
     xml:id="hu-hm2177-fb045v" ulx="0" uly="0" lrx="5412" lry="7216">
     <graphic url="../../images/hu-hm2177-fb045v.jpg"/>
-    <zone type="left_margin" rotate="90">
-	<line>Think not gold or flattery vile.</line>
+    <zone type ="library">
+		<line rend="right">*45v.</line>
+	</zone>
+	<zone type="left_margin" rotate="90">
+		<line>Think not gold or flattery vile.</line>
 	</zone>
 	<zone type="main">
-	<line>Thou art not... if a thing divine</line>
-	<line>Like thee, can die — thy funeral shrine</line>
-	<line>Is thy mother's <del rend="strikethrough">heart</del><add place="superlinear">heart</add> &amp mine <add place="sublinear">grief</add></line>
-	
-	
+		<line>Thou art not... if a thing divine</line>
+		<line>Like thee, can die — thy funeral shrine</line>
+		<line rend="indent1">Is thy mother's <del rend="strikethrough">heart</del><add place="superlinear">heart</add> &amp; mine <add place="sublinear">grief</add></line>
+		<space dim="vertical" unit="lines" extent="4"/>
+		<line><!--Greek Characters Here--> </line> 
+		<line><unclear reason="illegible"></unclear></line>
 	</zone>
-	
 </surface>
